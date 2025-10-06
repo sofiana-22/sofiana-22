@@ -37,7 +37,7 @@
 
 📫 Let's Connect!  
 
-🌐 <p align="center"> <a href="https://www.linkedin.com/in/">🌐 LinkedIn</a> • <a href="https://twitter.com/">🐦 Twitter</a> • ✉️ [Email me](mailto:ms.navarroa@gmail.com)  
+ <p align="center"> <a href="https://www.linkedin.com/in/">🌐 LinkedIn</a> • <a href="https://twitter.com/">🐦 Twitter</a> • ✉️ [Email me](mailto:ms.navarroa@gmail.com)  
 
 💌 Let’s connect, collaborate, and build the future together!  
 
