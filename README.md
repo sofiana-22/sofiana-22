@@ -39,6 +39,7 @@
 
 🌐 [LinkedIn]((https://www.linkedin.com/in/michelle-navarro-04b17a354/))  
 🐦 [Twitter]((https://x.com/Michell2064223))  
+✉️ [Email me](mailto:ms.navarroa@gmail.com)  
 💌 Let’s connect, collaborate, and build the future together!  
 
 
@@ -52,5 +53,5 @@
 
 📫 Let's Connect!
 
-<p align="center"> <a href="https://www.linkedin.com/in/">🌐 LinkedIn</a> • <a href="https://twitter.com/">🐦 Twitter</a> • 💌 <strong>Let’s connect, collaborate, and build the future together!</strong> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/">🌐 LinkedIn</a> • <a href="https://twitter.com/">🐦 Twitter</a> • 
 <p align="center"> 💻 Made with curiosity, passion, and a vision for innovation. </p>
