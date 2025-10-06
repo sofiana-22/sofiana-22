@@ -37,8 +37,8 @@
 
 📫 Let's Connect!  
 
-🌐 [LinkedIn](https://www.linkedin.com/in/)  
-🐦 [Twitter](https://twitter.com/)  
+🌐 [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/michelle-navarro-04b17a354/))  
+🐦 [Twitter]([https://twitter.com/](https://x.com/Michell2064223))  
 💌 Let’s connect, collaborate, and build the future together!  
 
 
