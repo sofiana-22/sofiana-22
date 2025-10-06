@@ -38,18 +38,9 @@
 📫 Let's Connect!  
 
 🌐 <p align="center"> <a href="https://www.linkedin.com/in/">🌐 LinkedIn</a> • <a href="https://twitter.com/">🐦 Twitter</a> • ✉️ [Email me](mailto:ms.navarroa@gmail.com)  
+
 💌 Let’s connect, collaborate, and build the future together!  
-
-
 
 💻 Made with curiosity, passion, and a vision for innovation.  
 
 
-🗣️ Quote I Live By
-
-“The people who are crazy enough to think they can change the world are the ones who do.” — Steve Jobs
-
-📫 Let's Connect!
-
-<p align="center"> <a href="https://www.linkedin.com/in/">🌐 LinkedIn</a> • <a href="https://twitter.com/">🐦 Twitter</a> • ✉️ [Email me](mailto:ms.navarroa@gmail.com)  
-<p align="center"> 💻 Made with curiosity, passion, and a vision for innovation. </p>
